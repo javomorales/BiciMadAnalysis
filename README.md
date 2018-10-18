@@ -38,10 +38,10 @@ Ejecutar los comandos que aparecen en cada fichero .rb con su estructura:
 De forma que puedes incluir cuantos ficheros .json quieras para analizar. El análisis de cada .json se guardará en el FICHERO_W a continuación.
 
 ### Hecho:
-1. Usos Día
-2. Usos Mes
-3. Edades Uso
-4. Fallos Bicis
+1. Usos Día -> Usos de BiciMad en un día concreto, por horas.
+2. Usos Mes -> Usos de BiciMad en un mes concreto.
+3. Edades Uso -> Edades de uso del BiciMad.
+4. Fallos Bicis -> Fallos que ha tenido el BiciMad, por las bicis que se cogen y se devuelven en la misma estación.
 
 ### ToDos:
 - Analizar las estaciones más utilizadas.
