@@ -17,7 +17,7 @@ Usando Ruby 2.4.2.
 
 Usar json:
 
-  $ requier 'json'
+  $ require 'json'
 
 [1]: https://twitter.com/jav0m0rales
 [2]: https://datos.madrid.es/sites/v/index.jsp?vgnextoid=374512b9ace9f310VgnVCM100000171f5a0aRCRD&buscar=true&Texto=bicimad&Sector=&Formato=&Periodicidad=&orderByCombo=CONTENT_INSTANCE_NAME_DECODE
