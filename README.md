@@ -37,7 +37,13 @@ Ejecutar los comandos que aparecen en cada fichero .rb con su estructura:
 
 De forma que puedes incluir cuantos ficheros .json quieras para analizar. El análisis de cada .json se guardará en el FICHERO_W a continuación.
 
-ToDos:
+### Hecho:
+1. Usos Día
+2. Usos Mes
+3. Edades Uso
+4. Fallos Bicis
+
+### ToDos:
 - Analizar las estaciones más utilizadas.
 - Analizar con carto las vías más transitadas.
 
