@@ -16,8 +16,8 @@ BiciMad es el servicio de bicicletas eléctricas de Madrid. Todos sus datos de u
 Usando Ruby 2.4.2.
 
 Usar json:
-
-  $ require 'json'
+    $ rvm install 2.0.0
+    $ require 'json'
 
 ### Instrucciones
 
