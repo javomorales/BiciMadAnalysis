@@ -46,6 +46,7 @@ De forma que puedes incluir cuantos ficheros .json quieras para analizar. El an�
 ### ToDos:
 - Analizar las estaciones más utilizadas.
 - Analizar con carto las vías más transitadas.
+- Un grafo de los tránsitos más utilizados de 7 a 10 y de 15 a 19.
 
 [1]: https://twitter.com/jav0m0rales
 [2]: https://datos.madrid.es/sites/v/index.jsp?vgnextoid=374512b9ace9f310VgnVCM100000171f5a0aRCRD&buscar=true&Texto=bicimad&Sector=&Formato=&Periodicidad=&orderByCombo=CONTENT_INSTANCE_NAME_DECODE
