@@ -7,8 +7,7 @@
 # 
 # EJEMPLOs:
 # ruby EdadesUsoBiciMad.rb EdadesUsoBiciMad.csv 201806_Usage_Bicimad.json
-# ruby EdadesUsoBiciMad.rb DejarBiciMismaEstacion.csv 201704_Usage_Bicimad.json 201705_Usage_Bicimad.json 201706_Usage_Bicimad.json 201706_Usage_Bicimad.json 201707_Usage_Bicimad.json 201708_Usage_Bicimad.json 201709_Usage_Bicimad.json 201710_Usage_Bicimad.json 201711_Usage_Bicimad.json 201712_Usage_Bicimad.json 201801_Usage_Bicimad.json 201802_Usage_Bicimad.json
-
+# ruby EdadesUsoBiciMad.rb EdadesUsoBiciMad.csv 201704_Usage_Bicimad.json 201705_Usage_Bicimad.json 201706_Usage_Bicimad.json  201707_Usage_Bicimad.json 201708_Usage_Bicimad.json 201709_Usage_Bicimad.json 201710_Usage_Bicimad.json 201711_Usage_Bicimad.json 201712_Usage_Bicimad.json 201801_Usage_Bicimad.json 201802_Usage_Bicimad.json 201803_Usage_Bicimad.json 201804_Usage_Bicimad.json 201805_Usage_Bicimad.json 201806_Usage_Bicimad.json 201807_Usage_Bicimad.json 201808_Usage_Bicimad.json 201809_Usage_Bicimad.json
 # ---------------------
 
 require 'json'
