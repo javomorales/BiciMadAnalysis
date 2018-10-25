@@ -1,0 +1,173 @@
+id	name	total_bases	number	address	longitude	latitude	
+1	Puerta del Sol A	24	1a	Puerta del Sol 1	-3.7024255	40.4168961	
+2	Puerta del Sol B	24	1b	Puerta del Sol 1	-3.7024207	40.4170009	
+3	Miguel Moya	24	2	Calle Miguel Moya 1	-3.7058415	40.4205886	
+4	Plaza Conde Suchil	18	3	Plaza del Conde Suchil 2-4	-3.7069171	40.4302937	
+5	Malasaña	24	4	Calle Manuela Malasaña 5	-3.7025875	40.4285524	
+6	Fuencarral	27	5	Calle Fuencarral 108	-3.7020599	40.4285280	
+7	Colegio Arquitectos	24	6	Calle Hortaleza 63	-3.6984470	40.4241480	
+8	Hortaleza	21	7	Calle Hortaleza 75	-3.6977715	40.4251906	
+9	Alonso Martínez	24	8	Plaza de Alonso Martínez 5	-3.6954403	40.4278682	
+10	Plaza de San Miguel	24	9	Plaza de San Miguel 9	-3.7095084	40.4156057	
+11	Marqués de la Ensenada	24	10	Calle Marqués de la Ensenada 16	-3.6918807	40.4250863	
+12	San Andrés	24	11	Calle San Andrés 18	-3.7035918	40.4269483	
+13	San Hermenegildo	24	12	Calle San Bernardo 85	-3.7061931	40.4284246	
+14	Conde Duque	24	13	Calle Conde Duque 22	-3.7104417	40.4273264	
+15	Ventura Rodríguez	24	14	Calle Ventura Rodríguez 2	-3.7134790	40.4260957	
+16	San Vicente Ferrer	21	15	Calle San Vicente Ferrer 64	-3.7073764	40.4261649	
+17	San Bernardo	21	16	Calle San Bernardo 22	-3.7075065	40.4230721	
+18	Carlos Cambronero	24	17	Plaza de Carlos Cambronero 2	-3.7038312	40.4232649	
+19	Plaza de Pedro Zerolo	24	18	Plaza de Pedro Zerolo	-3.6996502	40.4207773	
+20	Prim	24	19	Calle Prim 2	-3.6954983	40.4218616	
+21	Banco de España A	24	20a	Calle Alcalá 49	-3.6954615	40.4192342	
+23	Red de San Luis A	24	21a	Calle Montera 48	-3.7014814	40.4197872	
+24	Red de San Luis B	24	21b	Calle Montera 47	-3.7015235	40.4197204	
+25	Jacometrezo	24	22	Calle Jacometrezo 3	-3.7065376	40.4200783	
+26	Santo Domingo	24	23	Plaza de Santo Domingo 1	-3.7080733	40.4197429	
+27	Palacio de Oriente	24	24	Calle Carlos III 1	-3.7103538	40.4182146	
+28	Plaza de Celenque A	24	25a	Plaza de Celenque 1	-3.7064809	40.4173114	
+29	Plaza de Celenque B	24	25b	Plaza de Celenque 1	-3.7063837	40.4172781	
+30	Plaza de las Salesas	24	26	Plaza de las Salesas 7	-3.6944750	40.4238550	
+31	Huertas	24	27	Calle Jesús 1	-3.6956178	40.4132798	
+32	Sevilla	24	28	Calle Alcalá 27	-3.6992600	40.4181663	
+33	Marqués de Cubas	24	29	Calle del Marqués de Cubas 25	-3.6957355	40.4162619	
+34	San Quintín	27	30	Calle Pavía 6	-3.7115040	40.4192095	
+35	Calle Mayor	27	31	Calle Mayor 20	-3.7068969	40.4163638	
+36	Plaza de la Provincia	18	32	Plaza de la Provincia 1	-3.7061032	40.4150099	
+37	Carretas	24	33	Calle Carretas 8	-3.7031808	40.4157138	
+38	Jacinto Benavente	24	34	Plaza de Jacinto Benavente	-3.7036825	40.4146755	
+39	Plaza del Cordón	24	35	Plaza del Cordón 1	-3.7103285	40.4141931	
+40	Plaza de Ramales	24	36	Plaza de Ramales 1	-3.7124038	40.4167281	
+41	Plaza San Francisco	24	37	Plaza de San Francisco 5	-3.7144964	40.4108442	
+42	Plaza de los Carros	24	38	Carrera de San Francisco 1	-3.7120734	40.4110406	
+43	Plaza de la Cebada	27	39	Plaza de la Cebada 16 	-3.7088337	40.4112744	
+44	Conde de Romanones	24	40	Plaza del Conde de Romanones 9	-3.7049407	40.4138846	
+45	Antón Martín	21	41	Calle Atocha 54	-3.6991147	40.4122047	
+46	Santa Isabel	24	42	Calle Atocha 32	-3.6982318	40.4107085	
+47	Jesús y María	24	43	Calle Lavapiés 34-36	-3.7025024	40.4101564	
+48	Plaza de Nelson Mandela	21	44	Calle Mesón de Paredes 35	-3.7040666	40.4097617	
+49	Puerta de Toledo	21	45	Glorieta de la Puerta de Toledo 1	-3.7110513	40.4070358	
+50	Ribera de Curtidores	24	46	Calle Ribera de Curtidores 28	-3.7071259	40.4053153	
+51	Embajadores 1	24	47	Glorieta de Embajadores 6	-3.7028265	40.4047851	
+52	Embajadores 2	24	48	Glorieta de Embajadores 2	-3.7022591	40.4056107	
+53	Casa Encendida	24	49	Ronda de Atocha 34	-3.6992759	40.4060941	
+54	Museo Reina Sofía	24	50	Calle Santa Isabel 57	-3.6933463	40.4083684	
+55	Ronda de Atocha	27	51	Ronda de Atocha 2	-3.6935205	40.4075606	
+56	Plaza de Santa Ana	24	52	Plaza de Santa Ana 10	-3.7007164	40.4144226	
+57	Plaza de Lavapiés	24	53	Calle Valencia 1	-3.7008803	40.4089282	
+58	Barceló	21	54	Calle Barceló 7	-3.7004230	40.4266828	
+59	Plaza de San Ildefonso	24	55	Plaza de San Ildefonso 3	-3.7020842	40.4239757	
+60	Plaza del Carmen 	24	56	Plaza del Carmen 1	-3.7032414	40.4184192	
+61	Santa Cruz del Marcenado	24	57	Calle Santa Cruz del Marcenado 24	-3.7126299	40.4295658	
+62	Augusto Figueroa	24	58	Calle Augusto Figueroa 33	-3.6978950	40.4222862	
+63	Plaza de Juan Pujol	21	59	Calle Espíritu Santo 30	-3.7043418	40.4255495	
+64	Plaza de la Independencia	24	60	Plaza de la Independencia 6	-3.6883980	40.4197520	
+65	Narváez	24	61	Calle O'Donnell 28	-3.6752045	40.4213983	
+66	O'Donnell	24	62	Calle O'Donnell 50	-3.6724968	40.4213148	
+67	Ibiza	24	63	Calle Ibiza 62	-3.6708959	40.4179237	
+69	Antonio Maura	24	65	Calle Antonio Maura 15	-3.6904525	40.4165605	
+71	Almadén	24	67	Calle Almadén 28	-3.6932250	40.4108472	
+72	Espalter	21	68	Calle Espalter 1	-3.6912023	40.4128372	
+73	Puerta del ángel Caído	27	69	Avenida de Alfonso XII 54	-3.6888220	40.4098080	
+74	Puerta del Doce de Octubre	24	70	Avenida de Menéndez Pelayo 63	-3.6779232	40.4153053	
+75	Doce de Octubre	24	71	Calle Doce de Octubre 28	-3.6738865	40.4159569	
+76	Sainz de Baranda	24	72	Calle Doctor Esquerdo 99	-3.6691838	40.4157413	
+77	Plaza de los Astros	24	73	Avenida de Nazaret 7	-3.6689089	40.4114475	
+78	Puerta del Pacífico 	24	74	Avenida de Menéndez Pelayo 73	-3.6766813	40.4117627	
+79	Menéndez Pelayo	24	75	Avenida de Menéndez Pelayo 90	-3.6784838	40.4082805	
+80	Puerta de Mariano de Cavia	24	76	Avenida del Mediterráneo 19	-3.6750121	40.4076726	
+81	Conde de Casal	22	77	Plaza del Conde de Casal 8	-3.6704220	40.406350	
+82	Pedro Bosch	24	78	Calle Cerro de la Plata 2	-3.6744804	40.4009101	
+83	Puerta de Granada	24	79	Avenida de Menéndez Pelayo 38	-3.6803874	40.4051451	
+84	Atocha A	24	80a	Paseo de la Infanta Isabel 3	-3.6902255	40.4075685	
+85	Atocha B	27	80b	Paseo de la Infanta Isabel 3	-3.6901234	40.4074902	
+86	Cuesta de Moyano	24	81	Plaza del Emperador Carlos V 11	-3.6919870	40.4092970	
+87	Niño Jesús	24	82	Calle Doctor Esquerdo 161	-3.6697526	40.4084556	
+88	Pío Baroja	24	83	Calle Pío Baroja 10	-3.6751105	40.4130243	
+89	Valderribas	24	84	Calle Doctor Esquerdo 191	-3.6726019	40.4032501	
+90	Puerta de Madrid	27	85	Avenida de Menéndez Pelayo 11	-3.6800080	40.4215010	
+91	Cibeles	21	86	Paseo del Prado 1	-3.6926217	40.4186148	
+92	Ayala	24	87	Calle Ayala 44	-3.6832566	40.4277360	
+93	Embajada de Italia	24	88	Calle Velázquez 75	-3.6838303	40.4313576	
+94	Conde Peñalver	24	89	Calle Ayala 102	-3.6752024	40.4272582	
+95	General Pardiñas	30	90	Calle Goya 18	-3.6837876	40.4250361	
+96	Príncipe de Vergara	24	91	Calle Hermosilla 70	-3.6787441	40.4261340	
+97	Claudio Coello	24	92	Calle Claudio Coello 45	-3.6865463	40.4262945	
+98	Plaza de Colón	24	93	Calle Goya 1	-3.6893698	40.4257046	
+99	Biblioteca Nacional	21	94	Paseo de Recoletos 32-34	-3.6909648	40.4226990	
+100	Villanueva	24	95	Calle Claudio Coello 109	-3.6870548	40.4226584	
+101	Castelló	27	96	Calle Alcalá 111	-3.6821793	40.4220640	
+102	Alcalá	27	97	Avenida de Menéndez Pelayo 3	-3.6801307	40.4226906	
+103	Plaza de Felipe II	24	98	Plaza de Felipe II	-3.6753567	40.4242625	
+104	Alcántara	24	99	Calle Alcántara 2	-3.6738714	40.4261851	
+105	Palacio de Deportes	24	100	Calle Goya 99	-3.6738635	40.4248457	
+106	Jorge Juan	24	101	Calle Jorge Juan 131	-3.6691523	40.4231526	
+107	Velázquez	24	102	Calle Alcalá 95	-3.6840229	40.4211802	
+108	Ortega y Gasset	24	103	Calle Ortega y Gasset 6	-3.6865654	40.4303057	
+109	Castellana	21	104	Paseo de la Castellana 4	-3.6895336	40.4268331	
+110	Serrano	24	105	Calle Serrano 54	-3.6873922	40.4267905	
+111	Colón A	18	106a	Calle Serrano 34	-3.6877227	40.4251002	
+112	Colón B	18	106b	Calle Serrano 34	-3.6877450	40.4249630	
+113	Columela	24	107	Calle Serrano 6	-3.6884369	40.4215246	
+114	Mártires Concepcionistas	27	108	Calle Mártires Concepcionistas 2	-3.6706024	40.4273005	
+115	Marqués de Salamanca	24	109	Calle José Ortega y Gasset 30	-3.6816402	40.4300481	
+116	Moncloa	24	110	Paseo de Moret 2	-3.7206893	40.4344969	
+117	Arcipreste de Hita A	24	111a	Calle Arcipreste de Hita 12	-3.7175435	40.4337322	
+118	Arcipreste de Hita B	24	111b	Calle Arcipreste de Hita 12	-3.7175115	40.4337036	
+119	Paseo de Moret	24	112	Paseo de Moret 11	-3.7246532	40.4325991	
+120	Pintor Rosales	24	113	Paseo del Pintor Rosales 38	-3.7205129	40.4276570	
+121	Quintana	24	114	Calle Quintana 11-13	-3.7174158	40.4277456	
+122	Ferraz	24	115	Calle Evaristo San Miguel 2	-3.7170448	40.4253944	
+123	Plaza de España A	24	116a	Plaza de España	-3.7116030	40.4240200	
+124	Plaza de España B	24	116b	Plaza de España	-3.7117030	40.4241200	
+125	Altamirano	24	117	Calle Altamirano 24	-3.7188898	40.4309797	
+126	Juan Martín	24	118	Calle Juan Martín el Empecinado 14	-3.6882407	40.4007810	
+127	Méndez álvaro	24	119	Calle Méndez álvaro 11	-3.6863218	40.4013216	
+128	Palos de la Frontera	24	120	Calle Palos de la Frontera 40	-3.6944768	40.4032208	
+129	Santa María de la Cabeza	24	121	Paseo de Santa María de la Cabeza 58	-3.6987665	40.4017926	
+130	Santa Engracia 14	24	122	Calle Santa Engracia 14	-3.6963983	40.4295863	
+131	Guzmán el Bueno	24	123	Calle Guzmán el Bueno 2	-3.7133412	40.4306458	
+169	Manuel Silvela	24	124	Calle Manuel Silvela 20	-3.6993465	40.4309524	
+164	General Martínez Campos 	24	125	Calle Fernández de la Hoz 29	-3.6948626	40.4352850	
+163	General álvarez de Castro	24	126	Calle del General álvarez de Castro 2	-3.7015686	40.4344731	
+168	Fernando el Católico	24	127	Calle Fernando el Católico 19	-3.7084390	40.4338516	
+160	Cea Bermúdez	24	128	Calle Cea Bermúdez 59	-3.7154329	40.4389940	
+161	José Abascal	24	129	Calle José Abascal 33	-3.6982209	40.4385316	
+157	Santa Engracia 127	20	130	Calle Santa Engracia 127	-3.7016321	40.4413860	
+156	Bravo Murillo 44	24	131	Calle Bravo Murillo 44	-3.7039582	40.4412115	
+149	Glorieta de los Cuatro Caminos	24	132	Calle Santa Engracia 168	-3.7036675	40.4463667	
+150	Raimundo Fernández	24	133	Calle Raimundo Fernández Villaverde 33-35	-3.7001669	40.4471250	
+153	Agustín de Betancourt	24	134	Calle María de Guzmán 58	-3.6956047	40.4440.297	
+158	Plaza de San Juan de la Cruz	24	135	Plaza de San Juan de la Cruz 11	-3.6927821	40.4415974	
+151	Castellana 106	24	136	Paseo de la Castellana 106	-3.6908610	40.4453307	
+152	Plaza de la República Argentina	24	137	Plaza de la República Argentina 6-7	-3.6853312	40.4454110	
+154	Paseo de la Castellana con Raimundo Fernández	24	138	Paseo de la Castellana 67	-3.6917932	40.4457414	
+159	José Gutiérrez Abascal 	24	139	Calle José Gutiérrez Abascal 2	-3.6907784	40.4396792	
+162	Velázquez 130	24	140	Calle Velázquez 130	-3.6828620	40.4379444	
+165	Pâ€°Ã¶Ã‡ Castellana - Glorieta de Emilio Castelar	12	141	Paseo de la Castellana 43	-3.6892368	40.4355143	
+167	Castellana 42	24	142	Paseo de la Castellana 42	-3.6879154	40.4334087	
+166	Diego de León 52	24	143	Calle Diego de León 52	-3.6784920	40.4345973	
+170	Juan Bravo 50	24	144	Calle Juan Bravo 50	-3.6758555	40.4323655	
+171	Ortega y Gasset 87	24	145	Calle Ortega y Gasset 87	-3.6712823	40.4298870	
+155	María Francisca 1	18	146	Calle María Francisca 1	-3.6787169	40.4442258	
+148	Doctor Arce 45	24	147	Avenida del Doctor Arce 45	-3.6797296	40.4483269	
+144	Serrano 210	24	148	Calle Serrano 210	-3.6817962	40.4510188	
+146	Paseo de la Habana 42	24	149	Paseo de la Habana 42	-3.6881689	40.4498613	
+147	Castellana frente a Hermanos Pinzón	24	150	Paseo de la Castellana 124	-3.6905604	40.4488924	
+145	Orense 12	24	151	Calle Orense 12	-3.6952860	40.4480662	
+142	General Perón 1	24	152	Avenida del General Perón 1-4	-3.6990077	40.4527164	
+143	General Perón con Poeta Joan Maragall	24	153	Avenida del General Perón 36	-3.6926510	40.4522938	
+141	Orense 36	24	154	Calle Orense 36	-3.6946218	40.4548456	
+139	San Germán	24	155	Calle del General YagÃ¥Ã¼e 57	-3.7009675	40.4572824	
+140	Sor ángela de la Cruz	24	156	Calle Sor ángela de la Cruz 2	-3.6915330	40.4592351	
+137	Castellana 164	24	157	Paseo de la Castellana 164	-3.6894151	40.4591366	
+138	Alberto Alcocer	24	158	Avenida de Alberto Alcocer 22	-3.6847150	40.4585318	
+173	Paseo de la Habana 63	24	159	Paseo de la Habana 63	-3.6835926	40.4543852	
+172	Colombia	24	160	Calle Colombia 7	-3.6763439	40.4572466	
+132	Paseo de la Florida	24	161	Paseo de la Florida 8	-3.7218482	40.4220812	
+133	Metro Pirámides	24	162	Paseo de los Olmos 28	-3.7108108	40.4034076	
+134	Paseo de la Esperanza	21	163	Paseo de la Esperanza 2	-3.7064516	40.4035988	
+136	Paseo de las Delicias	24	164	Paseo de las Delicias 92-94	-3.6945025	40.3972616	
+135	Entrada Matadero	24	165	Paseo de la Chopera 14	-3.6971829	40.3919385	
+174	Segovia 26	24	166	Calle Segovia. 26	-3.7135833	40.4138333
+175	Segovia 45	24	167	Calle Segovia. 45	-3.717487	40.413736
